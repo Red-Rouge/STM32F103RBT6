@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.django-html": "django-html",
+        "led.h": "c",
+        "stm32f10x.h": "c",
+        "stm32f10x_gpio.h": "c",
+        "usart.h": "c",
+        "delay.h": "c",
+        "stm32f10x_rcc.h": "c",
+        "sys.h": "c",
+        "stdio.h": "c",
+        "stm32f10x_usart.h": "c",
+        "misc.h": "c",
+        "seg.h": "c",
+        "key.h": "c",
+        "stm32f10x_tim.h": "c",
+        "beep.h": "c",
+        "slip.h": "c",
+        "stm32f10x_adc.h": "c",
+        "rtc.h": "c",
+        "string": "c",
+        "array": "c",
+        "string_view": "c",
+        "stm32f10x_rtc.h": "c",
+        "stm32f10x_pwr.h": "c",
+        "stm32f10x_exti.h": "c"
+    }
+}
